@@ -1,6 +1,6 @@
 # P2P Betting DApp
 
-This repository contains a Next.js frontend and a Brownie/Solidity smart-contract project for a peer-to-peer sports-betting prototype. The latest commit on `main` is dated December 2, 2023. This README describes the checked-in code; it does not verify that any deployment, API credential, or oracle integration is currently operational.
+This repository contains a Next.js frontend and a Brownie/Solidity smart-contract project for a peer-to-peer sports-betting prototype. This README describes the checked-in code; it does not verify that any deployment, API credential, or oracle integration is currently operational.
 
 ## What the repository contains
 
